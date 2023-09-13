@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,700&family=Montserrat:wght@400;700&display=swap');
+
+body {
+    font-size: 1em;
+    color: rgb(42, 42, 121);
+    background-color: rgb(71, 186, 235);
+}
+
+
+
+
+main {
+    margin: 30px;
+    background-image: url(assets/To-Do-List-img.jpg);
+    padding: 30px;
+    padding-top: 90px;
+    
+}
+
+#taskList label{
+    font-size: 2em;
+    font-weight: bold;
+}
+
+#taskList input{
+    font-size: 2em;
+    width: 15em;
+    border-radius: 10px
+
+}
+
+#taskList button{
+    font-size: 1.3em;
+    padding: 6px;
+    font-weight: bold;
+    border-radius: 10px;
+    color: rgb(42, 42, 121);
+    
+}
+
+
